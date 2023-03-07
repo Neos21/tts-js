@@ -1,0 +1,26 @@
+{
+  "name": "@neos21/tts-js",
+  "version": "0.0.0",
+  "description": "TTS.js",
+  "main": "index.js",
+  "bin": {
+    "tts-js": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/tts-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/tts-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/tts-js/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
+}
